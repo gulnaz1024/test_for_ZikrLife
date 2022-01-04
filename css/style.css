@@ -1,35 +1,202 @@
-body {
-    margin: 0;
-}
-
-.preloader {
-    position: fixed;
-    left: 0;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    overflow: hidden;
-    background: #fff;
-    z-index: 1001;
-}
-
-.preloader__image {
+html, body {
+    height: 100%;
+  }
+  
+  .zikr_button_container {
+    display:flex;
+    background-color: #0D1B1E ;
+    justify-content: center; 
+    vertical-align:text-bottom;
+    
+  }
+  
+  .zikrNumber {
+    display:flex;
     position: relative;
-    top: 50%;
-    left: 50%;
-    width: 64px;
-    height: 64px;
-    margin-top: -32px;
-    margin-left: -32px;
-    background: url('/examples/images/preloader.gif') no-repeat 50% 50%;
-    /*расположение (url) изображения gif и др. параметры*/
-}
-
-.loaded_hiding .preloader {
-    transition: 0.3s opacity;
-    opacity: 0;
-}
-
-.loaded .preloader {
-    display: none;
-}
+    justify-content: center;  
+    align-self: center;
+    top: 25%;   
+    z-index: 4;
+  }
+  
+  #zikrs {
+    color: white;
+    font-size: 75px;
+    font-weight: bold;
+    /* -webkit-text-stroke:2px rgb(29, 23, 105); */
+    text-shadow: 0 0 7px  #180e01; 
+  }
+  
+  .zikrButton {
+    position: absolute;
+    background: rgb(170, 247, 174);
+    border-color: rgb(235, 227, 227);  
+    border-width: 2px;  
+    border-radius: 15px;
+    color: rgb(253, 11, 31);
+    font-size: 27px;
+    z-index: 3;
+    bottom: 10%;
+    width: 60vw;
+    height: 75px;
+    max-width: 400px;
+    
+  }
+  
+  .reset_button_container {
+    display:flex;
+    position: relative;
+    justify-content:center;  
+    /* align-self: center; */
+    top: 30%;  
+    z-index: 5;
+    
+    
+  }
+  
+  .resetButton3 {   
+    
+    position: absolute;
+    width: 40vw;
+    height: 130px;
+    max-width: 400px;
+    min-width: 200px;
+    background-color: rgb(57, 214, 253);
+    opacity: 0.4;
+    /* border-color: rgb(7, 1, 31);  
+    border-width: 6px;   */
+    border-radius: 15px;
+    border: none;
+    
+   
+  }
+  
+  .resetButton {   
+    
+    position: absolute;
+    width: 40vw;
+    height: 130px;
+    max-width: 400px;
+    min-width: 200px;
+    background-color: transparent;
+    /* border-color: rgb(7, 1, 31);  
+    border-width: 6px;   */
+    border-radius: 15px;
+    border: none;
+    
+   
+  }
+  
+  .resetButton2 {   
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;  
+    
+    position:absolute;
+    width: 40vw;
+    height: 130px;
+    max-width: 400px;
+    min-width: 200px;
+    background-color: Transparent;
+    /* border-color: rgb(12, 4, 117);   */
+    /* border-width: 6px;  
+    border-radius: 15px; */
+    line-height: 30px;
+    border: none;
+  
+    color: rgb(24, 4, 94);
+    font-size: 21px;
+    font-weight: bold;
+   
+  }
+  
+  body {
+    width: auto;
+    height: 100vh;
+    background-image: linear-gradient(rgb(12, 1, 61), rgb(33, 128, 252));
+    /* background: url('/img/background_mountains.png'), linear-gradient(red, yellow); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  .background_mountains {
+    position: absolute;
+    display:block;
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    z-index: 2;
+  
+    /*just for tuning sun movement on different devices*/
+    /* opacity: 0.2;   */
+  }
+  
+  .skyObjects {
+    display:flex;
+    justify-content: center;
+  }
+  
+  .sun {
+    position: fixed;
+    display:block;
+    width:auto;
+    height:50%;
+    left: 0%;
+    top: 20%;
+    z-index: 1;  
+  }
+  
+  .moon {
+    position: fixed;
+    display:block;
+    width:auto;
+    height:50%;
+    top: 20%;
+    right: 0%;
+    z-index: 1;
+  }
+  
+  .loader {
+    position: fixed;
+    z-index: 99;
+    
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(rgb(12, 1, 61), rgb(33, 128, 252)) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .loaderGif {
+    position: absolute;
+    width: 200%;
+    height: auto;
+  }
+  
+  .loaderImage {
+    position: absolute;
+    
+  }
+  
+  .loader > img {
+    width: 100px;
+  }
+  
+  .loader.hidden {
+    animation: fadeOut 0.5s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes fadeOut {
+    100% {
+        opacity: 0;
+        visibility: hidden;
+    }
+  }
+  
+  #scrollable-content {
+    height: 100%;
+    overflow-y: scroll;
+  }
