@@ -1,6 +1,4 @@
-html, body {
-    height: 100%;
-  }
+html, body {margin: 0; height: 100%; overflow: hidden}
   
   .zikr_button_container {
     display:flex;
@@ -113,7 +111,7 @@ html, body {
   body {
     width: auto;
     height: 100vh;
-    background-color: red;
+    background-image: linear-gradient(rgb(12, 1, 61), rgb(33, 128, 252));
     /* background: url('/img/background_mountains.png'), linear-gradient(red, yellow); */
     background-repeat: no-repeat;
     background-size: cover;
