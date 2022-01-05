@@ -61,11 +61,11 @@ HTML, CSS, JS and Bootstrap 5.
 
 
 ### Special thanks to:
-> Gulnaz's husband
-> Ruslan Isaev
-> Miss Saikal
-> Miss Mariam
-> Mr Umar
+> [Gulnaz's husband]
+> [Ruslan Isaev]
+> [Miss Saikal]
+> [Miss Mariam]
+> [Mr Umar]
 
 
 git add -A && git commit -am 'test' && git push
