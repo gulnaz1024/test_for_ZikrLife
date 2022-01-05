@@ -53,9 +53,10 @@ HTML,CSS,JS and Bootstrap 5.
 <a href="https://youtu.be/djk0BfYTVoI"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/edgetx-v2.png" align="center" height="150" width="150" ></a>
 
 git add -A && git commit -am 'test' && git push
-
+<div>
 <div>
 <img src="https://w-dog.ru/wallpapers/9/15/458745441613494/vajoming-ssha-grand-teton-nacionalnyj-park-snejk-river-grand-titon-nacionalnyj-park-zakat-oblaka-vecher-gory-pole-cvety-zelen-les-derevya-sosny.jpg" width="425"/></div> 
 
 <div><img src="https://w-dog.ru/wallpapers/9/15/458745441613494/vajoming-ssha-grand-teton-nacionalnyj-park-snejk-river-grand-titon-nacionalnyj-park-zakat-oblaka-vecher-gory-pole-cvety-zelen-les-derevya-sosny.jpg" width="425"/>
+</div>
 </div>
