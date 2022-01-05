@@ -50,7 +50,7 @@ HTML,CSS,JS and Bootstrap 5.
 > [From the United Arab Emirates](https://youtu.be/uMWQHSvaC4g)
 
 <p align="center">
-<a href="https://youtu.be/djk0BfYTVoI"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/edgetx-v2.png" align="center" height="150" width="150" ></a>
+<a href="https://youtu.be/djk0BfYTVoI"><img src="https://sun9-46.userapi.com/impg/veK1iD-eShXeprgSXVNLbeI2o-VzctKDc5Xl2A/-KjAbgvUHoI.jpg?size=552x406&quality=96&sign=0ac7f5f20b440b5076fb85080f68827a&type=album" align="center" ></a>
 
 git add -A && git commit -am 'test' && git push
 <div>
