@@ -1,5 +1,5 @@
 # ZikrLife
-<a href="https://gulnaz1024.github.io/MAT20_Final_Project/"> link to a project </a>
+## > <a href="https://gulnaz1024.github.io/MAT20_Final_Project/"> link to a project </a>
 
 **Application that helps you to clean your heart**
 
