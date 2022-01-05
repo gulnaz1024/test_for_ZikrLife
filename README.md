@@ -18,6 +18,15 @@ This application was created for performing zikr and for counting certain object
 ### Technology stack
 HTML, CSS, JS and Bootstrap 5.
 
+### Screeshots
+
+<img src="https://sun9-25.userapi.com/impg/-frCl91Vy22TK7fqfrbBp5FhTiDrnRfJWlQj6g/trlC0C3QKNw.jpg?size=736x1188&quality=96&sign=6d7449959f9d3379846b17442ba4f409&type=album" align="center"/>
+
+### Feedbacks
+> [From the Netherlands](https://youtu.be/djk0BfYTVoI)
+
+> [From the United Arab Emirates](https://youtu.be/uMWQHSvaC4g)
+
 ### References to used links
 
 > [Bootstrap 5](https://www.w3schools.com/bootstrap5/index.php)
@@ -49,20 +58,12 @@ HTML, CSS, JS and Bootstrap 5.
 
 > [Confirmation of action with CSS: for reset](https://www.w3schools.com/howto/howto_css_delete_modal.asp)
 
-> [Change background color](https://www.w3schools.com/jsref/met_win_setinterval.asp), (https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_win_setinterval_clearinterval2)
+> [Change background color](https://www.w3schools.com/jsref/met_win_setinterval.asp), [Another way to do it](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_win_setinterval_clearinterval2)
 
-### Feedback
-> [From the Netherlands](https://youtu.be/djk0BfYTVoI)
 
-> [From the United Arab Emirates](https://youtu.be/uMWQHSvaC4g)
 
 
 
 git add -A && git commit -am 'test' && git push
-<div>
-<div>
-<img src="https://w-dog.ru/wallpapers/9/15/458745441613494/vajoming-ssha-grand-teton-nacionalnyj-park-snejk-river-grand-titon-nacionalnyj-park-zakat-oblaka-vecher-gory-pole-cvety-zelen-les-derevya-sosny.jpg" width="425"/></div> 
 
-<div><img src="https://w-dog.ru/wallpapers/9/15/458745441613494/vajoming-ssha-grand-teton-nacionalnyj-park-snejk-river-grand-titon-nacionalnyj-park-zakat-oblaka-vecher-gory-pole-cvety-zelen-les-derevya-sosny.jpg" width="425"/>
-</div>
-</div>
+
