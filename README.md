@@ -55,4 +55,4 @@ HTML,CSS,JS and Bootstrap 5.
 git add -A && git commit -am 'test' && git push
 
 
-<img src="blob:https://web.telegram.org/968b3c95-7d1f-49a5-a5a8-4e2681c5827f" width="425"/> <img src="https://w-dog.ru/wallpapers/9/15/458745441613494/vajoming-ssha-grand-teton-nacionalnyj-park-snejk-river-grand-titon-nacionalnyj-park-zakat-oblaka-vecher-gory-pole-cvety-zelen-les-derevya-sosny.jpg" width="425"/>
+<img src="https://w-dog.ru/wallpapers/9/15/458745441613494/vajoming-ssha-grand-teton-nacionalnyj-park-snejk-river-grand-titon-nacionalnyj-park-zakat-oblaka-vecher-gory-pole-cvety-zelen-les-derevya-sosny.jpg" width="425"/> <img src="https://w-dog.ru/wallpapers/9/15/458745441613494/vajoming-ssha-grand-teton-nacionalnyj-park-snejk-river-grand-titon-nacionalnyj-park-zakat-oblaka-vecher-gory-pole-cvety-zelen-les-derevya-sosny.jpg" width="425"/>
