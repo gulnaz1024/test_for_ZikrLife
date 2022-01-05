@@ -9,7 +9,6 @@
 
 ### Video description
 
-<p align="center">
 <a href="https://youtu.be/djk0BfYTVoI"><img src="https://sun9-46.userapi.com/impg/veK1iD-eShXeprgSXVNLbeI2o-VzctKDc5Xl2A/-KjAbgvUHoI.jpg?size=552x406&quality=96&sign=0ac7f5f20b440b5076fb85080f68827a&type=album" align="center" ></a>
 
 ### About ZikrLife
@@ -61,11 +60,7 @@ HTML, CSS, JS and Bootstrap 5.
 
 
 ### Special thanks to:
-> [Gulnaz's husband]
-> [Ruslan Isaev]
-> [Miss Saikal]
-> [Miss Mariam]
-> [Mr Umar]
+> Gulnaz's husband, Ruslan Isaev, Miss Saikal, Miss Mariam, Mr Umar
 
 
 git add -A && git commit -am 'test' && git push
