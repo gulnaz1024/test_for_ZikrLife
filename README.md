@@ -1,7 +1,7 @@
 # ZikrLife
-## > <a href="https://gulnaz1024.github.io/MAT20_Final_Project/"> link to a project </a>
-
 **Application that helps you to clean your heart**
+
+## > <a href="https://gulnaz1024.github.io/MAT20_Final_Project/"> link to a project </a>
 
 ### Contributors list
 1. Gulnaz Gimaletdiniva (MAT-20)
