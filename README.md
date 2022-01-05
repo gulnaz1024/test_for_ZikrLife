@@ -45,4 +45,4 @@ HTML,CSS,JS0 and Bootstrap 5.
 > [Change background color](https://www.w3schools.com/jsref/met_win_setinterval.asp), (https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_win_setinterval_clearinterval2)
 
 ### Feedback
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://neverwintervault.org/sites/neverwintervault.org/files/project/1814/images/p1jhlng.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
