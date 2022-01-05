@@ -19,7 +19,6 @@ This application was created for performing zikr and for counting certain object
 HTML, CSS, JS and Bootstrap 5.
 
 ### Screeshots
-
 <img src="https://sun9-25.userapi.com/impg/-frCl91Vy22TK7fqfrbBp5FhTiDrnRfJWlQj6g/trlC0C3QKNw.jpg?size=736x1188&quality=96&sign=6d7449959f9d3379846b17442ba4f409&type=album" align="center"/>
 
 ### Feedbacks
@@ -61,7 +60,12 @@ HTML, CSS, JS and Bootstrap 5.
 > [Change background color](https://www.w3schools.com/jsref/met_win_setinterval.asp), [Another way to do it](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_win_setinterval_clearinterval2)
 
 
-
+### Special thanks to:
+> Gulnaz's husband
+> Ruslan Isaev
+> Miss Saikal
+> Miss Mariam
+> Mr Umar
 
 
 git add -A && git commit -am 'test' && git push
