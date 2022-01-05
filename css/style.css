@@ -111,16 +111,16 @@ html, body {
    
   }
   
-  /* body {
+  body {
     width: auto;
     height: 100vh;
     background-image: linear-gradient(rgb(12, 1, 61), rgb(33, 128, 252));
-    /* background: url('/img/background_mountains.png'), linear-gradient(red, yellow); 
+    background: url('/img/background_mountains.png'), linear-gradient(red, yellow); 
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
   }
-   */
+  
   .background_mountains {
     position: absolute;
     display:block;
